@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 click==7.1.2
 Flask==1.1.2
 future==0.18.2
@@ -7,6 +8,6 @@ MarkupSafe==1.1.1
 numpy==1.19.0
 Pillow==7.2.0
 PyYAML==5.3.1
-torch==1.5.1
-torchvision==0.6.1
+torch==1.5.0+cpu
+torchvision==0.6.0+cpu
 Werkzeug==1.0.1
