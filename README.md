@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-﻿
 # Baby Pokedex 
 While learning ML fundamentals for image classification, I thought it would be neat to make a Pokemon identifier. This is a "baby" Pokedex because the model is only trained to select from 4 categories: Pikachu, Charmander, Squirtle, Bulbasaur. Even if you enter a picture of yourself, you'd be mapped to one of these four categories.
 
@@ -24,12 +22,3 @@ Here I had to import the model from the Jupyter notebook so that I can input new
 😬 Don't click the upload button without upload an image first otherwise it breaks.
 😬 The site may not be the most appealing, but I learned more about Front-End design after this project during my internship at startup: Flapmax.
 😬 The site is NOT optimized for mobile. For the best experience, open the site on a laptop/computer.
-
-
-
-=======
-"# pokemon-classifier-web-app" 
-
-Model found here:
-https://github.com/rishabhpar/Pokedex-Model
->>>>>>> 550310878aca033a1e6afb110a59fe9540a37732
