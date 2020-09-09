@@ -3,7 +3,7 @@ click==7.1.2
 Flask==1.1.2
 future==0.18.2
 itsdangerous==1.1.0
-gunicorn==19.0.0
+gunicorn==19.5.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.19.0
