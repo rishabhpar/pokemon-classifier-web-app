@@ -7,7 +7,7 @@ I scraped ~500 images from Google Images of each of the 4 Pokemon and created a 
 
 ## Training
 
-I was learning my ML from a fast.ai course. In that course they recommended using a ResNet architecture for image classification since it used transfer learning to have an initial set of pre-trained weight, increasing accuracy. Using the fast.ai package would be an easy way to use an ResNet architecture since it's pretty much a black-box. However, I wanted actually implement the training my self. This can be found in the Pokemon_Model_Training Jupyter Notebook.
+I was learning my ML from a fast.ai course. In that course they recommended using a ResNet architecture for image classification since it used transfer learning to have an initial set of pre-trained weight, increasing accuracy. Using the fast.ai package would be an easy way to use an ResNet architecture since it's pretty much a black-box. However, I wanted actually implement the training my self using PyTorch. This can be found in the Pokemon_Model_Training Jupyter Notebook.
 
 ### Results 
 
